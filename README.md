@@ -1,0 +1,2 @@
+# Rummikub
+Rummikub Solver AI
